@@ -5,4 +5,4 @@
 🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@thiago.aragao)<br/>
 💭 Currently improving advanced knowledge about Modular Monoliths, Clean Architecture and data analytics!<br/>
 
-[![Thiago Aragão's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbaragao&show_icons=true&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Thiago Aragão's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbaragao&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
