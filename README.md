@@ -13,6 +13,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tbaragao&count_private=true&show_icons=true&theme=github_dark&rank_icon=github)<br/>
+![](https://github-readme-stats-thiago-aragaos-projects.vercel.app/api?username=tbaragao&count_private=true&show_icons=true&theme=github_dark&rank_icon=github)<br/>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tbaragao&limit=5&theme=dark&combine_all_yearly_contributions=true)
